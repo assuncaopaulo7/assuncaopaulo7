@@ -34,17 +34,6 @@ Building intelligent systems that perceive and interact with the real world
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=assuncaopaulo7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assuncaopaulo7&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
