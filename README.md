@@ -16,7 +16,6 @@ Building intelligent systems that perceive and interact with the real world
 - 🤖 Passionate about **Computer Vision**, **Deep Learning**, and **Autonomous Systems**
 - 🚁 Built a real-time **Autonomous Drone Tracking System** using YOLO, Gazebo & PX4-Autopilot — Bachelor's Final Project
 - 🛰️ Trained top-down **Vehicle Detection** models with NVIDIA TAO Toolkit & DeepStream for aerial drone imagery
-- 🔍 Currently exploring **AI fairness**, **uncertainty quantification**, and **causal inference**
 - 💻 Also into **IoT** (Raspberry Pi, ESP32, Arduino) and **embedded systems**
 
 ---
